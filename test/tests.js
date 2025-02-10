@@ -1,0 +1,1 @@
+let module = await import ('../js/app.js');
